@@ -1,0 +1,20 @@
+# Visual Studio cache files
+.vs/
+*.user
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.db
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspscc
+
